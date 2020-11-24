@@ -4034,6 +4034,7 @@ function _typeof(e) {
                             name: l(e),
                             value: e.value,
                             nodeName: e.nodeName,
+                            id: e.id
                           };
                           e.type &&
                             "INPUT" === e.nodeName.toUpperCase() &&
